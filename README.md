@@ -2,6 +2,8 @@
 
 python项目 迷宫游戏
 
+基于 Tkinter 的界面设计，路径搜索算法为 BFS。
+
 ## 主界面
 
 背景图片可自行修改，但必须是gif文件，文件名为“backgroundimage.gif”，图片大小为640x480。
