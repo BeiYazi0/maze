@@ -2,7 +2,7 @@
 
 python项目 迷宫游戏
 
-基于 Tkinter 的界面设计，路径搜索算法为 BFS。
+基于 tkinter 的界面设计，路径搜索算法为 BFS。
 
 ## 主界面
 
